@@ -1,4 +1,4 @@
-h1 {
+h2 {
     /* Box-model */
     padding: 20px 0;
   
@@ -8,9 +8,9 @@ h1 {
     font-size: 28px;
   
     /* Typography */
-    color: #eee;
+    color:gray;
     text-align: center;
   
     /* Visual */
-    background: #333;
+    background: rgb(112, 92, 92);
   }
