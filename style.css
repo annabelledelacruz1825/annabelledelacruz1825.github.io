@@ -12,8 +12,7 @@ h2 {
     text-align: center;
   
     /* Visual */
-    background: rgb(112, 92, 92);
-  };
+}
 
   p1
   {
@@ -26,7 +25,7 @@ h2 {
     font-size: 28px;
   
     /* Typography */
-    color:gray;
+    color:rgb(128, 128, 128);
     text-align: center;
 
   }
