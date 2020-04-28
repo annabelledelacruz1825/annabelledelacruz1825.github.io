@@ -12,20 +12,24 @@ h2 {
     text-align: center;
   
     /* Visual */
-}
+    background: white;
+  }
 
   p1
   {
-
-    padding: 30px 0;
+          /* Box-model */
+    padding: 20px 0;
   
     /* Positioning */
-    margin: 10;
+    margin: 0;
     margin-bottom: 20px;
     font-size: 28px;
   
     /* Typography */
-    color:rgb(128, 128, 128);
+    color:gray;
     text-align: center;
-
+  
+    /* Visual */
+    background: white;
   }
+  
