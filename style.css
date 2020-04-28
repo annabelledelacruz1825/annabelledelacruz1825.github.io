@@ -1,0 +1,16 @@
+h1 {
+    /* Box-model */
+    padding: 20px 0;
+  
+    /* Positioning */
+    margin: 0;
+    margin-bottom: 20px;
+    font-size: 28px;
+  
+    /* Typography */
+    color: #eee;
+    text-align: center;
+  
+    /* Visual */
+    background: #333;
+  }
