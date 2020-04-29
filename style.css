@@ -116,3 +116,14 @@ h2 {
     background-color: greenyellow;
     font-size: 44px;
 }
+
+.jumbotron2
+{
+           
+    background-color: skyblue;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+    padding: 20px;
+
+}
