@@ -45,5 +45,6 @@ h2 {
   #jumbotron
   {
       padding: 50;
-      margin-block: 20
+      margin-block: 20;
+      background-color: beige;
   }
