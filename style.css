@@ -47,4 +47,8 @@ h2 {
         padding: 20px;
         }
     
-  
+  #jumbotron
+  {
+      padding: 50;
+      margin-block: 20
+  }
