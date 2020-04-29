@@ -170,7 +170,14 @@ h2 {
 }
 .colored-container
 {
-    background-color: blanchedalmond;
+    background-color: rgb(211, 148, 54);
+    min-height: 1200px;
+    display: block;
+}
+
+.container
+{
+    background-color: rgb(255, 205, 253);
     min-height: 1200px;
     display: block;
 }
