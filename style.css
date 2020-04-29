@@ -49,11 +49,17 @@ h2 {
       background-color: beige;
   }
   .jumbotron
-  {
-      padding: 50;
-      margin-block: 20;
-      background-color: beige;
-  }
+  
+    {
+        
+        background-color: skyblue;
+        text-align: center;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-size: 25px;
+        padding: 20px;
+        }
+    
+  
 
   #list-example
   {
