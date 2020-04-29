@@ -36,7 +36,11 @@ h2 {
     /* Visual */
     background: white;
   }
-
+.ul
+{
+    color: brown;
+    text-overflow: initial;
+}
     
   #jumbotron
   {
