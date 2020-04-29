@@ -48,6 +48,12 @@ h2 {
       margin-block: 20;
       background-color: beige;
   }
+  .jumbotron
+  {
+      padding: 50;
+      margin-block: 20;
+      background-color: beige;
+  }
 
   #list-example
   {
