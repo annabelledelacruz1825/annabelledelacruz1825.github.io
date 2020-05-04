@@ -288,7 +288,7 @@ header .banner {
   display: inline-block;
   vertical-align: middle;
   margin: 0 auto;
-  width: 85%;
+  width: 55%;
   padding-bottom: 30px;
   text-align: center;
 }
@@ -296,7 +296,7 @@ header .banner {
 header .banner-text { 
   padding: 10px;
   width: 100%; 
-  background-color: rgba(68, 68, 68, 0.521);
+  background-color: rgba(219, 159, 159, 0.521);
 }
 
 header .banner-text h1 {
