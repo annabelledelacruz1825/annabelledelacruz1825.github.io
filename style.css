@@ -257,10 +257,9 @@ header .social li {
 }
 header .social li a { color: #fff;}
 header .social li a:hover { color: #11ABB0; }
-
-/* #portfolio {
+#portfolio {
   background: #ebeeee;
-  padding-top: 60px;
+  padding-top: 90px;
   padding-bottom: 60px;
 }
 
@@ -275,7 +274,7 @@ header .social li a:hover { color: #11ABB0; }
 	filter:alpha(opacity=100);
 }
 
-
+/* popup modal */
 .popup-modal {
 	max-width: 550px;
 	background: #fff;
@@ -318,4 +317,4 @@ header .social li a:hover { color: #11ABB0; }
    margin-right: 15px;
 }
 .popup-modal a:hover {	color: #00CCCC; }
-.popup-modal a.popup-modal-dismiss { margin-left: 24px; } */
+.popup-modal a.popup-modal-dismiss { margin-left: 24px; }
