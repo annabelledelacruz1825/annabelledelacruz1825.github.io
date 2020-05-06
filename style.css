@@ -399,20 +399,19 @@ Testimonials
   background-image: url('https://github.com/annabelledelacruz1825/annabelledelacruz1825.github.io/blob/master/IMG_0833.jpg?raw=true');
   background-repeat: no-repeat;
   background-attachment: fixed;
-  background-size: 200% 200%;
- 
-
+  background-size: cover;
+  opacity: 0.5
+;  border: 2px solid black;
 }
 div.transbox {
   margin: 30px;
   background-color: #ffffff;
   border: 1px solid black;
-  opacity: 0.8;
+  opacity: 0.6;
 }
 
 div.transbox p {
-  margin: 8%;
+  margin: 5%;
   font-weight: bold;
   color: #000000;
-  font-size: 20px;
 }
