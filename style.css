@@ -401,6 +401,7 @@ Testimonials
   background-attachment: fixed;
   background-size: cover;
   opacity: 0.5
+  ;  border: 2px solid black;
 }
 div.transbox {
   margin: 30px;
@@ -422,6 +423,7 @@ div.transbox p {
   background-attachment: fixed;
   background-size: cover;
   opacity: 0.5
+;  border: 2px solid black;
 }
 div.transbox {
   margin: 30px;
