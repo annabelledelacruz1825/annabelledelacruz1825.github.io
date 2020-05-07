@@ -448,7 +448,7 @@ div.transbox p {
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
-  opacity: .8;
+  opacity: .9;
  
 ;  border: 2px solid black;
 }
@@ -456,7 +456,7 @@ div.transbox {
   margin: 30px;
   background-color: #ffffff;
   border: 1px solid black;
-  opacity: 1;
+  opacity: .8;
 }
 
 div.transbox p {
@@ -465,28 +465,6 @@ div.transbox p {
   color: #000000;
 }
 
-.p-3 mb-2 bg-info text-white
-{
-  background-image: url('https://github.com/annabelledelacruz1825/annabelledelacruz1825.github.io/blob/master/IMG_0143.jpg?raw=true');
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
-  opacity: .8;
- 
-;  border: 2px solid black;
-}
-div.transbox {
-  margin: 30px;
-  background-color: #ffffff;
-  border: 1px solid black;
-  opacity: 1;
-}
-
-div.transbox p {
-  margin: 5%;
-  font-weight: bold;
-  color: #000000;
-}
 
 
 
