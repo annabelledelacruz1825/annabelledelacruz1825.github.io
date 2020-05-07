@@ -397,7 +397,7 @@ Testimonials
 
 .homepicture
 {
-background-image: url('https://github.com/annabelledelacruz1825/annabelledelacruz1825.github.io/blob/master/IMG_1111.jpg?raw=true');
+background-image: url('https://github.com/annabelledelacruz1825/annabelledelacruz1825.github.io/blob/master/IMG_0143.jpg?raw=true');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
@@ -443,11 +443,11 @@ div.transbox p {
 
 .resume
 {
-  background-image: url('https://github.com/annabelledelacruz1825/annabelledelacruz1825.github.io/blob/master/IMG_1111.jpg?raw=true');
+  background-image: url('https://github.com/annabelledelacruz1825/annabelledelacruz1825.github.io/blob/master/IMG_0143.jpg?raw=true');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
-  opacity: 1;
+  opacity: .8;
  
 ;  border: 2px solid black;
 }
@@ -455,7 +455,7 @@ div.transbox {
   margin: 30px;
   background-color: #ffffff;
   border: 1px solid black;
-  opacity: 0.3;
+  opacity: 1;
 }
 
 div.transbox p {
