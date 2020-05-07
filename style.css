@@ -427,15 +427,16 @@ div.transbox p {
   background-attachment: fixed;
   opacity: 0.9;
 ;  border: 2px solid black;
-width: 300px;
-height: 100px;
-padding: 50px;
+
 }
 div.transbox {
   margin: 30px;
   background-color: #ffffff;
   border: 1px solid black;
   opacity: 0.5;
+  width: 300px;
+height: 100px;
+padding: 50px;
 }
 
 div.transbox p {
