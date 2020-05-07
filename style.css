@@ -444,5 +444,25 @@ div.transbox p {
 
 
 
+.resune
+{
+  background-image: url('https://github.com/annabelledelacruz1825/annabelledelacruz1825.github.io/blob/master/IMG_2041.jpg?raw=true');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  opacity: 0.9;
+;  border: 2px solid black;
 
+}
+div.transbox {
+  margin: 30px;
+  border: 1px solid black;
+  opacity: 0.1;
+
+}
+
+div.transbox p {
+  margin: 5%;
+  font-weight: bold;
+  color: #000000;
+}
 
