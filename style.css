@@ -397,7 +397,8 @@ Testimonials
 
 .homepicture
 {
-  background-image: url('https://github.com/annabelledelacruz1825/annabelledelacruz1825.github.io/blob/master/IMG_0833.jpg?raw=true');
+
+  background-image: url('https://github.com/annabelledelacruz1825/annabelledelacruz1825.github.io/blob/master/IMG_0143.jpg?raw=true');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
@@ -407,7 +408,7 @@ Testimonials
 div.transbox {
   margin: 80px;
     border: 1px solid black;
-  opacity: 0.3;
+  opacity: 0.8;
 }
 
 div.transbox p {
