@@ -40,7 +40,7 @@ h2 {
   {
       padding: 50;
       margin-block: 20;
-  
+      background-color: gold;
       margin-top: 15px;
       margin-bottom: 15px;
   }
@@ -48,7 +48,7 @@ h2 {
   
     {
         
-      
+        background-color: goldenrod;
         text-align: center;
         font-family: Georgia, 'Times New Roman', Times, serif;
         font-size: 25px;
@@ -397,7 +397,8 @@ Testimonials
 
 .homepicture
 {
-background-image: url('https://github.com/annabelledelacruz1825/annabelledelacruz1825.github.io/blob/master/IMG_0143.jpg?raw=true');
+
+  background-image: url('https://github.com/annabelledelacruz1825/annabelledelacruz1825.github.io/blob/master/IMG_0143.jpg?raw=true');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
@@ -405,17 +406,19 @@ background-image: url('https://github.com/annabelledelacruz1825/annabelledelacru
 ;  border: 2px solid black;
 }
 div.transbox {
-  margin: 20px;
+  margin: 30px;
   background-color: #ffffff;
   border: 1px solid black;
-  opacity: 0.3;
+  opacity: 0.5;
 }
 
 div.transbox p {
-  margin: 2%;
+  margin: 5%;
   font-weight: bold;
   color: #000000;
 }
+
+
 
 .homepicture2
 {
@@ -484,4 +487,6 @@ div.transbox p {
   font-weight: bold;
   color: #000000;
 }
+
+
 
